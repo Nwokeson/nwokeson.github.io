@@ -148,7 +148,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Nwokemodo Chibuike Daniel</h1>
+            <h1>Daniel Nwokemodo</h1>
             <div class="subhead">AI Workforce Researcher | Product Manager | OnePrompt Founder</div>
             <div class="affiliation">James Hope University · Lagos, Nigeria</div>
             <div class="links">
