@@ -1,22 +1,263 @@
-# nwokeson.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Nwokemo | AI Workforce Researcher & Product Manager</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            background: #fafafa;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #0a0a0a;
+        }
+        .subhead {
+            font-size: 1.2rem;
+            color: #2c7da0;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+        .affiliation {
+            color: #555;
+            margin-bottom: 1rem;
+        }
+        .links {
+            margin: 1rem 0;
+        }
+        .links a {
+            color: #2c7da0;
+            text-decoration: none;
+            margin: 0 0.75rem;
+            font-weight: 500;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        section {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            border: 1px solid #eaeaea;
+        }
+        h2 {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #0a0a0a;
+            border-left: 4px solid #2c7da0;
+            padding-left: 0.75rem;
+        }
+        h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 1rem 0 0.5rem 0;
+            color: #1a1a1a;
+        }
+        ul {
+            margin-left: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+        li {
+            margin-bottom: 0.25rem;
+        }
+        .research-question {
+            background: #f0f4f8;
+            padding: 0.75rem;
+            border-radius: 8px;
+            margin: 0.75rem 0;
+            font-style: italic;
+        }
+        .badge {
+            display: inline-block;
+            background: #e9ecef;
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+            color: #1a1a1a;
+        }
+        .download-btn {
+            display: inline-block;
+            background: #2c7da0;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            text-decoration: none;
+            margin-right: 1rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+        .download-btn:hover {
+            background: #1f5e7a;
+        }
+        .achievement-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .achievement-card {
+            background: #f0f4f8;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .achievement-number {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #2c7da0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eaeaea;
+            font-size: 0.85rem;
+            color: #777;
+        }
+        @media (max-width: 600px) {
+            .container { padding: 1rem; }
+            h1 { font-size: 1.8rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Daniel Nwokemodo</h1>
+            <div class="subhead">AI Workforce Researcher | Product Manager | OnePrompt Founder</div>
+            <div class="affiliation">James Hope University · Lagos, Nigeria</div>
+            <div class="links">
+                <a href="https://github.com/Nwokeson" target="_blank">GitHub</a> ·
+                <a href="https://linkedin.com/in/ncdaniel" target="_blank">LinkedIn</a> ·
+                <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+            </div>
+        </header>
 
-My personal website — a hub for my research on strategic HR and leadership for AI workforce preparation, my AI products (PromptPal, EngineChat), and my professional portfolio.
+        <section>
+            <h2>📄 Portfolio & Achievements</h2>
+            <p>Download my detailed work samples:</p>
+            <a href="Daniel%20Product%20Portfolio%20(1).pdf" class="download-btn" target="_blank">📁 Product Portfolio (MIM, Ethical Resolve, Luminna, Farms Agora, PromptPal)</a>
+            <a href="OnePrompt%20Profile%20(2)%20(2).pdf" class="download-btn" target="_blank">🛡️ OnePrompt Profile – AI Safety Education</a>
+        </section>
 
-## Contents
-- Research overview and 4 research questions
-- AI product documentation
-- Rubric design and LLM evaluation (55% → 88% agreement)
-- Technical skills and certifications
-- Education and contact information
+        <section>
+            <h2>🏆 Key Achievements</h2>
+            <div class="achievement-grid">
+                <div class="achievement-card">
+                    <div class="achievement-number">N150M+</div>
+                    <div>Monthly revenue at MIM Finance</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-number">&lt;5%</div>
+                    <div>Non-performing loans</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-number">2,643</div>
+                    <div>Students & professionals reached via OnePrompt (2025)</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-number">10,000</div>
+                    <div>2026 goal for AI safety education</div>
+                </div>
+            </div>
+        </section>
 
-## Live site
-[https://nwokeson.github.io](https://nwokeson.github.io)
+        <section>
+            <h2>🔬 Current Research</h2>
+            <p><strong>Strategic Human Resource Management and Leadership for Workforce Preparation in the AI and Automation Age</strong></p>
+            <p>MBA research at James Hope University examining how organizations can strategically prepare their workforces for AI adoption.</p>
+            
+            <h3>Research Questions</h3>
+            <div class="research-question">1. How can organizational leaders assess and develop their readiness to lead AI-driven transformation?</div>
+            <div class="research-question">2. What HR strategies and upskilling frameworks are most effective for AI adoption?</div>
+            <div class="research-question">3. How does organizational culture influence successful AI adoption?</div>
+            <div class="research-question">4. What governance structures ensure safe and equitable AI deployment?</div>
+        </section>
 
-## Related
-- [GitHub Profile](https://github.com/Nwokeson)
-- [LinkedIn](https://linkedin.com/in/ncdaniel)
-- [Google Scholar](https://scholar.google.com) (add your profile link once created)
+        <section>
+            <h2>🤖 AI Products & Platforms Built</h2>
+            <h3>PromptPal</h3>
+            <p>AI prompt management platform with 16+ models (GPT-4, Claude, Gemini, DeepSeek, Groq). Features: multi-model playground, Chrome extension, speech-to-prompt, enterprise team collaboration.</p>
+            
+            <h3>EngineChat</h3>
+            <p>AI engineering assistant Android app — 93% user satisfaction, 65% weekly retention. Live on Google Play Store.</p>
 
----
+            <h3>MIM Finance</h3>
+            <p>Launched and improved multiple secured/unsecured loan products (Credit Builder, WageX, Salary Advance, SME Loans). Ensured AML, KYC, and Recova compliance.</p>
 
-*Built with HTML/CSS. Hosted on GitHub Pages.*
+            <h3>OnePrompt</h3>
+            <p>AI safety education organization. Reached 2,643 students and professionals in 2025 through free webinars and training. Goal: 10,000 in 2026.</p>
+        </section>
+
+        <section>
+            <h2>📊 Rubric Design & LLM Evaluation</h2>
+            <p>Designed a 5-dimension rubric (Clarity, Completeness, Accuracy, Efficiency, Consistency) for evaluating AI-generated prompts. Led calibration sessions with 5 evaluators, improving agreement from <strong>55% to 88%</strong> using anchor sets and Fleiss' Kappa.</p>
+            <p><strong>Business impact:</strong> 30% reduction in human evaluation time, 40% automation of quality checks.</p>
+        </section>
+
+        <section>
+            <h2>🛠️ Technical Skills</h2>
+            <span class="badge">Python (beginner-intermediate)</span>
+            <span class="badge">SQL (intermediate)</span>
+            <span class="badge">API Integration</span>
+            <span class="badge">Mixpanel Analytics</span>
+            <span class="badge">Azure DevOps / Jira / Linear</span>
+            <span class="badge">Excel / PowerPoint / Word</span>
+        </section>
+
+        <section>
+            <h2>📚 Selected Certifications</h2>
+            <ul>
+                <li>Azure AI Fundamentals – Microsoft (2024)</li>
+                <li>Generative AI & Strategic Thinking – LinkedIn Learning (2025)</li>
+                <li>Product-Led Growth – Product School (2023)</li>
+                <li>Foundations of Cybersecurity – Coursera (2024)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>🎓 Education</h2>
+            <ul>
+                <li><strong>MBA (Strategic Management & Leadership)</strong> – James Hope University (In progress)</li>
+                <li><strong>B.Sc. Educational Technology (Second Class Upper)</strong> – University of Benin</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>🛡️ OnePrompt – AI Safety Education</h2>
+            <p>Founder of OnePrompt, an organization dedicated to AI safety and ethics. We provide structured AI education covering fundamentals, prompting, ethics, safety, and future-of-work readiness.</p>
+            <p><strong>2025 Impact:</strong> 2,643 students and professionals reached. Free webinars for educators, teachers, and school owners. Free coding and AI classes for children ages 5-14.</p>
+            <p><strong>2026 Goal:</strong> 10,000 students and professionals.</p>
+        </section>
+
+        <footer>
+            📧 nwokemododaniel@gmail.com | 📍 Lagos, Nigeria | ☎️ +234 703 103 2531
+        </footer>
+    </div>
+</body>
+</html>
