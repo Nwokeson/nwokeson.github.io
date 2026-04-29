@@ -1,43 +1,30 @@
-# Daniel Nwokemodo
+# AI Risk Governance Integration: A Framework for Management, HR, and Executives
 
-**AI Workforce Researcher | Product Manager | OnePrompt Founder**
+## Research Overview
+MBA research at James Hope University developing a practical framework for integrating AI risk governance into corporate management systems — covering Enterprise Risk Management (ERM), incident response protocols, leadership KPIs for safe deployment, human oversight mechanisms, and strategic trade-offs for management, HR, and business executives.
 
-📍 Lagos, Nigeria | 📧 nwokemododaniel@gmail.com
+## Key Focus Areas
+- Embedding AI risk into existing ERM frameworks
+- Leadership accountability metrics (KPIs for safe AI deployment)
+- HR strategies for upskilling and workforce transition
+- Human-in-the-loop oversight for high-risk decisions
+- Trade-offs between innovation, speed, and safety
 
-[GitHub](https://github.com/Nwokeson) · [LinkedIn](https://linkedin.com/in/ncdaniel)
+## Research Questions
+1. How can AI risk be embedded into existing Enterprise Risk Management (ERM) frameworks?
+2. What leadership KPIs ensure accountability for safe AI deployment?
+3. How should incident response protocols be adapted for AI-specific failures?
+4. What human oversight mechanisms are needed for high-risk AI decisions?
 
----
+## Methods
+- Literature review
+- Case study analysis (companies with AI governance failures)
+- Framework design
+- Stakeholder interviews (planned)
 
-## 🔬 Current Research
+## Status
+In progress | MBA candidate, James Hope University
 
-**Strategic Human Resource Management and Leadership for Workforce Preparation in the AI and Automation Age**
-
-MBA research at James Hope University examining how organizations can strategically prepare their workforces for AI adoption.
-
-### Research Questions
-1. How can organizational leaders assess their readiness to lead AI-driven transformation?
-2. What HR strategies and upskilling frameworks are most effective?
-3. How does organizational culture influence successful AI adoption?
-4. What governance structures ensure safe and equitable AI deployment?
-
----
-
-## 🤖 AI Products Built
-- **PromptPal** – AI prompt platform with 16+ models
-- **EngineChat** – AI assistant with 93% satisfaction
-- **OnePrompt** – AI safety education (2,643 reached in 2025)
-
----
-
-## 📊 Rubric Design
-5-dimension rubric (Clarity, Completeness, Accuracy, Efficiency, Consistency) – improved evaluator agreement from 55% to 88%.
-
----
-
-## 📄 Downloads
-- [Product Portfolio](Daniel%20Product%20Portfolio%20(1).pdf)
-- [OnePrompt Profile](OnePrompt%20Profile%20(2)%20(2).pdf)
-
----
-
-*Built with HTML/CSS. Hosted on GitHub Pages.*
+## Related Work
+- [PromptPal](https://www.promptpal.app) – AI prompt platform with rubric evaluation
+- [OnePrompt](https://nwokeson.github.io) – AI safety education
